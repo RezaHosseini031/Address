@@ -7,53 +7,53 @@
     "name" : "lamborghini",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari1",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini1",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari2",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini2",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari3",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini3",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari4",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini4",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari5",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini5",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari6",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini6",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }, {
-    "name" : "frari",
+    "name" : "frari7",
     "Address" : "https://cdn.khodrobank.com/Gallery/panamera2.jpg"
   },
   {
-    "name" : "lamborghini",
+    "name" : "lamborghini7",
     "Address" : "https://asdownload.net/wallpaper/web/wallpapers/726/thumbnail/lg.jpg"
   }
 ]
