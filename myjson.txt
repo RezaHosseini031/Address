@@ -8,14 +8,6 @@
 "Address":"https://imgd.aeplcdn.com/1056x594/cw/ec/39232/Porsche-992-911-Right-Front-Three-Quarter-154380.jpg?wm=1&q=75"
   },
   {
-    "name" : "Porsh 911",
-"Address":"https://imgd.aeplcdn.com/1056x594/cw/ec/39232/Porsche-992-911-Right-Front-Three-Quarter-154380.jpg?wm=1&q=75"
-  },
-  {
-    "name" : "Porsh 911",
-"Address":"https://imgd.aeplcdn.com/1056x594/cw/ec/39232/Porsche-992-911-Right-Front-Three-Quarter-154380.jpg?wm=1&q=75"
-  },
-  {
     "name" : "lamborghini",
 "Address":"http://pic.photo-aks.com/large/tron-aventador-Lamborghini.jpg"
   },
