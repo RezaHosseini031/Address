@@ -8,10 +8,6 @@
 "Address":"https://imgd.aeplcdn.com/1056x594/cw/ec/39232/Porsche-992-911-Right-Front-Three-Quarter-154380.jpg?wm=1&q=75"
   },
   {
-    "name" : "lamborghini",
-"Address":"http://pic.photo-aks.com/large/tron-aventador-Lamborghini.jpg"
-  },
-  {
     "name" : "benz",
 "Address":"https://imgd.aeplcdn.com/1056x594/n/cw/ec/20865/amg-gt-exterior-right-front-three-quarter-60800.jpeg?q=75&wm=1"
   }
